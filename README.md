@@ -21,7 +21,7 @@ sudo modprobe -rfv rt2800pci
 sudo modprobe -v rt2800pci
 ```
 
-## Authors
+## Author
 
 👤 **Arthur Borges**
 
